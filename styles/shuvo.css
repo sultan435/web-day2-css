@@ -1,0 +1,46 @@
+.header{
+    height: 200px;
+    background-color: yellow;
+    text-align: center;
+    /* background-image: url('pexels-arshad-sutar-1749303.jpg'); */
+    background-image: url('../images/790117.jpg');
+    background-size: cover;
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    background-repeat: repeat-x;
+}
+
+
+h2{
+    font-size: 40px;
+    text-decoration:overline;
+}
+.blog{
+    /* background-color: red; */
+    border: 10px solid aqua;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px red;
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.soni{
+    color: red;
+    border: 3px solid tomato;
+    /* height: 50px; */
+    /* display: block; */
+    /* margin: 20px; */
+    /* padding: 20px; */
+    display: inline-block;
+
+
+}
+
+li{
+    display: inline;
+}
